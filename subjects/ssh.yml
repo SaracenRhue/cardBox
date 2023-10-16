@@ -1,0 +1,4 @@
+0:
+  question: 'What kind of encryption does SSH use?'
+  answer: 'Cryptography'
+  level: 0
